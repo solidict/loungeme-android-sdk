@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="first_maenu_angle">26</integer>
+
+    <integer name="second_maenu_angle">52</integer>
+    <integer name="third_maenu_angle">78</integer>
+
+    <integer name="forth_maenu_angle">104</integer>
+    <integer name="fifth_maenu_angle">128</integer>
+
+    <integer name="sixth_maenu_angle">154</integer>
+
+</resources>
