@@ -12,6 +12,8 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ImageView;
 
+import java.util.Locale;
+
 public class LoungMeActivity extends AppCompatActivity {
     WebView wv;
     ImageView ivForward;
@@ -78,7 +80,13 @@ public class LoungMeActivity extends AppCompatActivity {
 
 
         wv.getSettings().setJavaScriptEnabled(true);
-        wv.loadUrl("https://slowfoodtime.com/tr/secure-home");
+        String lang="tr";
+
+        if (!Locale.getDefault().getDisplayLanguage().equalsIgnoreCase("tr")) {
+            lang="en";
+        }
+
+        wv.loadUrl("https://lounge.me/"+lang+"/secure-home");
 
         wv.setWebViewClient(new WebViewClient() {
             @Override

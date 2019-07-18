@@ -56,84 +56,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cb05d6d-855d-4012-83b7-120b83bc0cba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_umutkina_temp_0_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/loungme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loungemesdk/src/main/res/drawable-xxhdpi/back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loungemesdk/src/main/res/drawable-xxhdpi/close_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loungemesdk/src/main/res/drawable-xxhdpi/forward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loungemesdk/src/main/res/drawable-xxhdpi/refresh_icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TempProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/solidict/temp/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/solidict/temp/MyView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/circle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/rounded.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/circle_mirrored.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/left_mirrored.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/deneme_rtl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-ldrtl/integers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/integers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/generated/source/buildConfig/androidTest/debug/com/tav/loungemesdk/test/BuildConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/annotations_typedef_file/debug/extractDebugAnnotations/typedefs.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/compile_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/compile_library_classes/debug/classes.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/generateDebugRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/generateDebugRFile/R.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/packageDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/BuildConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/BuildConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/LoungMeActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/LoungMeActivity$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/LoungMeActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/LoungMeActivity$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/LoungMeActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/LoungMeActivity$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/LoungMeActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/LoungMeActivity$4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/LoungMeActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/tav/loungemesdk/LoungMeActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/merged_manifests/debugAndroidTest/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/merged_manifests/debugAndroidTest/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/packaged-classes/debug/classes.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/refresh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/packaged_res/debug/layout/activity_loung_me.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/packaged_res/debug/layout/activity_loung_me.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/packaged_res/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/packaged_res/debug/values/values.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/runtime_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/runtime_library_classes/debug/classes.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/intermediates/symbols/debug/R.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/outputs/aar/loungemesdk-debug.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/loungemesdk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/loungemesdk.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loungemesdk/src/main/java/com/tav/loungemesdk/LoungMeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/src/main/java/com/tav/loungemesdk/LoungMeActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/src/main/res/drawable-xxhdpi/refresh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/src/main/res/layout/activity_loung_me.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/src/main/res/layout/activity_loung_me.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loungemesdk/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loungemesdk/src/main/res/values/styles.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,12 +108,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/loungemesdk/src/main/java/com/tav/loungemesdk/LoungMeActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="125">
+              <caret line="88" column="45" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#3730#3731#0" expanded="true" />
                 <element signature="e#3757#3758#0" expanded="true" />
                 <element signature="e#3786#3787#0" expanded="true" />
@@ -203,12 +140,12 @@
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loungemesdk/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -275,7 +212,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values-ldrtl/integers.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/loungemesdk/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/circle_mirrored.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/solidict/temp/MainActivity.java" />
         <option value="$PROJECT_DIR$/loungemesdk/src/main/res/values-v21/styles.xml" />
@@ -283,12 +219,13 @@
         <option value="$PROJECT_DIR$/loungemesdk/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/loungemesdk/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/loungemesdk/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/loungemesdk/src/main/java/com/tav/loungemesdk/LoungMeActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/tav/sample/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/tav/loungeme/sample/MainActivity.java" />
+        <option value="$PROJECT_DIR$/loungemesdk/build.gradle" />
+        <option value="$PROJECT_DIR$/loungemesdk/src/main/java/com/tav/loungemesdk/LoungMeActivity.java" />
       </list>
     </option>
   </component>
@@ -430,6 +367,36 @@
               <item name="LoungeMeSdk" type="b2602c69:ProjectViewProjectNode" />
               <item name="LoungeMeSdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="loungemesdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoungeMeSdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoungeMeSdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="loungemesdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoungeMeSdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoungeMeSdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="loungemesdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoungeMeSdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoungeMeSdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="loungemesdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoungeMeSdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoungeMeSdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="loungemesdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="loungemesdk" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -623,13 +590,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49320793" visible="true" weight="0.32967034" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4925816" visible="true" weight="0.32967034" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Build Variants" order="4" sideWeight="0.50679207" side_tool="true" visible="true" weight="0.32967034" />
+      <window_info id="Build Variants" order="4" sideWeight="0.5074184" side_tool="true" visible="true" weight="0.32967034" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
@@ -638,7 +604,7 @@
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.3291536" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.29571578" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.29571578" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Gradle View" order="6" weight="0.329849" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -749,21 +715,6 @@
       </provider>
       <provider editor-type-id="android-manifest" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/loungemesdk/src/main/java/com/tav/loungemesdk/LoungMeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#3730#3731#0" expanded="true" />
-            <element signature="e#3757#3758#0" expanded="true" />
-            <element signature="e#3786#3787#0" expanded="true" />
-            <element signature="e#3816#3817#0" expanded="true" />
-            <element signature="e#3845#3846#0" expanded="true" />
-            <element signature="e#3872#3873#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -787,6 +738,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loungemesdk/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tav/loungeme/sample/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -797,17 +762,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/loungemesdk/src/main/java/com/tav/loungemesdk/LoungMeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loungemesdk/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="125">
+          <caret line="88" column="45" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3730#3731#0" expanded="true" />
+            <element signature="e#3757#3758#0" expanded="true" />
+            <element signature="e#3786#3787#0" expanded="true" />
+            <element signature="e#3816#3817#0" expanded="true" />
+            <element signature="e#3845#3846#0" expanded="true" />
+            <element signature="e#3872#3873#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
