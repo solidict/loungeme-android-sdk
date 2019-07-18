@@ -381,9 +381,9 @@ color bright_foreground_material_dark
 color bright_foreground_material_light
 color button_material_dark
 color button_material_light
-color colorBottomMenu
-color colorPrimary
-color colorPrimaryDark
+color colorLoungeMe
+color colorLoungeMeDark
+color colorTopMenu
 color dim_foreground_disabled_material_dark
 color dim_foreground_disabled_material_light
 color dim_foreground_material_dark
@@ -628,6 +628,9 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable back
+drawable close_icon
+drawable forward
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -640,7 +643,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable refresh
+drawable refresh_icon
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id action_bar
@@ -691,6 +694,7 @@ id info
 id invisible
 id italic
 id iv_back
+id iv_close
 id iv_forward
 id iv_refresh
 id left

@@ -5,55 +5,83 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".LoungMeActivity">
-
-<WebView
-    android:id="@+id/wv_lounge_me"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:layout_above="@+id/rl_bottom_menu">
-
-</WebView>
-
     <RelativeLayout
         android:id="@+id/rl_bottom_menu"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:background="@color/colorBottomMenu"
+        android:background="@color/colorTopMenu"
         android:padding="8dp"
-       >
-
+        >
         <ImageView
-android:tint="#FFFFFF"
-            android:id="@+id/iv_back"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerVertical="true"
-            android:padding="8dp"
-            android:src="@drawable/refresh" />
-
-        <ImageView
-            android:id="@+id/iv_forward"
-
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerVertical="true"
-            android:layout_toRightOf="@+id/iv_back"
-            android:padding="8dp"
-            android:tint="#FFFFFF"
-
-            android:src="@drawable/refresh" />
-
-        <ImageView
+            android:layout_marginLeft="24dp"
             android:id="@+id/iv_refresh"
             android:tint="#FFFFFF"
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
             android:layout_centerVertical="true"
-            android:padding="8dp"
-            android:src="@drawable/refresh" />
+            android:padding="12dp"
+            android:src="@drawable/refresh_icon" />
+
+        <LinearLayout
+            android:layout_centerInParent="true"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_marginRight="24dp"
+                android:tint="#FFFFFF"
+                android:id="@+id/iv_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:padding="12dp"
+                android:src="@drawable/back" />
+
+            <ImageView
+
+                android:layout_marginLeft="24dp"
+                android:id="@+id/iv_forward"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/iv_back"
+                android:padding="12dp"
+                android:tint="#FFFFFF"
+
+                android:src="@drawable/forward" />
+        </LinearLayout>
+
+
+
+
+        <ImageView
+
+            android:layout_marginRight="24dp"
+
+            android:id="@+id/iv_close"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:padding="12dp"
+            android:tint="#FFFFFF"
+
+            android:src="@drawable/close_icon" />
 
     </RelativeLayout>
+
+<WebView
+    android:id="@+id/wv_lounge_me"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_below="@+id/rl_bottom_menu">
+
+</WebView>
+
+
 </RelativeLayout>

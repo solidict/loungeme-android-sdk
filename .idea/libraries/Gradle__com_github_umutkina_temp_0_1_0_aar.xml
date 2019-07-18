@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.umutkina:temp:0.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2dbe6632c182ac10c8c40270db8a6480/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2dbe6632c182ac10c8c40270db8a6480/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.umutkina/temp/0.1.0/7f0d94f237127cbfc4a79198b4b852d43999db8/temp-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

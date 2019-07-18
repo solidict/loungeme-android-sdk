@@ -3,111 +3,20 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
-
-
-
-    <View
-
-        android:id="@+id/view"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-    <View
-
-        android:id="@+id/view_right"
-        android:layout_width="20dp"
-        android:layout_height="wrap_content"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/earth_image"
-
-        />
+    tools:context="com.tav.loungeme.sample.MainActivity">
 
     <ImageView
-
-        android:layout_width="wrap_content"
-        android:layout_height="0dp"
-        android:src="@drawable/left_mirrored"
-        app:layout_constraintBottom_toTopOf="@+id/mars_image"
+        android:id="@+id/iv_loungeme"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/saturn_image" />
-
-    <ImageView
-
-        android:layout_width="wrap_content"
-        android:layout_height="0dp"
-        android:src="@drawable/circle_mirrored"
-        app:layout_constraintBottom_toBottomOf="@+id/mars_image"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/view_right"
-        app:layout_constraintTop_toTopOf="@+id/saturn_image" />
-
-    <ImageView
-        android:id="@+id/sun_image"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@mipmap/ic_launcher"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/view"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:src="@drawable/loungme"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
 
-    <ImageView
-        android:id="@+id/saturn_image"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/rounded"
-        app:layout_constraintCircle="@+id/sun_image"
-        app:layout_constraintCircleAngle="@integer/first_maenu_angle"
-        app:layout_constraintCircleRadius="240dp" />
 
-    <ImageView
-        android:id="@+id/n_image"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/rounded"
-        app:layout_constraintCircle="@+id/sun_image"
-        app:layout_constraintCircleAngle="@integer/second_maenu_angle"
-        app:layout_constraintCircleRadius="240dp" />
-
-    <ImageView
-        android:id="@+id/earth_image"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/rounded"
-        app:layout_constraintCircle="@+id/sun_image"
-        app:layout_constraintCircleAngle="@integer/third_maenu_angle"
-        app:layout_constraintCircleRadius="240dp" />
-
-    <ImageView
-        android:id="@+id/x_image"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/rounded"
-        app:layout_constraintCircle="@+id/sun_image"
-        app:layout_constraintCircleAngle="@integer/forth_maenu_angle"
-        app:layout_constraintCircleRadius="240dp" />
-
-    <ImageView
-        android:id="@+id/z_image"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/rounded"
-        app:layout_constraintCircle="@+id/sun_image"
-        app:layout_constraintCircleAngle="@integer/fifth_maenu_angle"
-        app:layout_constraintCircleRadius="240dp" />
-
-    <ImageView
-        android:id="@+id/mars_image"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/rounded"
-        app:layout_constraintCircle="@+id/sun_image"
-        app:layout_constraintCircleAngle="@integer/sixth_maenu_angle"
-        app:layout_constraintCircleRadius="240dp" />
 
 
 
